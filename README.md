@@ -1,4 +1,4 @@
-## Oi, eu sou o Lucas Daniel, estudante de informática!
+## Oi, me chamo Lucas Daniel e sou estudante de informática!
 
 <div align="center">
   <a href="https://github.com/lucasdanielzx">
