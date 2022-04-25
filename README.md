@@ -5,7 +5,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasdanielzx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdanielzx&layout=compact&langs_count=7&theme=dracula"/>    
 </div> 
-
+<br>
 <div align="center">   
 
    <a target="_blank" href="https://www.w3schools.com/java/" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
