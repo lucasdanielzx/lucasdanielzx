@@ -7,7 +7,7 @@
 </div>  
   
   
-<div align="left" >
+<div  style="display: inline_block" align="left"  >
   <a href = https://www.w3schools.com/html/default.asp><img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
   
   <a href = https://www.w3schools.com/css/default.asp><img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
