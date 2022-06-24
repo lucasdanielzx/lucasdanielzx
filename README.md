@@ -12,7 +12,7 @@
    <a target="_blank" href="https://www.w3schools.com/java/" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-   <a href="https://github.com/lucasdanielzx" target="_blank"> <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png?w=286&h=300" width = "45" height ="45"> </a>
+   <a href="https://github.com/lucasdanielzx" target="_blank"> <img src="https://servervds.com/wp-content/uploads/2019/03/database-mysql.png" width = "45" height ="45"> </a>
    <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
  
 </div>  
