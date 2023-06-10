@@ -12,8 +12,6 @@
    <a target="_blank" href="https://www.w3schools.com/java/" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-   <a href="https://github.com/lucasdanielzx" target="_blank"> <img src="[https://img2.gratispng.com/20180430/xlw/kisspng-sql-computer-icons-database-5ae7aaae3e7991.4359487615251319502559.jpg](https://banner2.cleanpng.com/20180620/vvv/kisspng-sql-computer-icons-document-file-format-5b2a12c312e667.3194279415294839710774.jpg)" width = "45" height ="45"> </a>
-   <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
    <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
  
 </div>  
