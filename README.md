@@ -13,7 +13,7 @@
    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
    <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-   <img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" width="48" height="48"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" width="48" height="48" margin-left="5"/>
 </div>  
 
    ##   
