@@ -15,7 +15,7 @@
    <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
    <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" width="48" height="48"/> </a>
 </div>  
-
+<div align="center" style="display: inline_block">
 <div align="center">
    <a href="https://instagram.com/lucasdanielzx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lucas05pedro2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
