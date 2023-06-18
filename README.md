@@ -13,7 +13,7 @@
    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
    <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-   <img src="[https://img.icons8.com/color/48/000000/c-programming.png](https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-4000x3246.png)"/>
+   <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-4000x3246.png"/>
 </div>  
 
    ##   
