@@ -1,4 +1,4 @@
-## Oi, me chamo Lucas Daniel e sou estudante de informática!
+## Meu nome é Lucas Daniel, tenho 20 anos, e estou estudando para me tornar um desenvolvedor FullStack.
 
 <div align="center">
   <a href="https://github.com/lucasdanielzx">
