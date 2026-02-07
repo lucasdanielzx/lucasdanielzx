@@ -28,24 +28,22 @@ Atualmente, integro a equipe de desenvolvimento da **Sudoeste Informática**, at
 
 ### 🛠 Tech Stack
 
-### 🛠 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  
+  <br> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Frontend**
-* ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-* ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwind-css)
-* ![JS](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-
-**Backend & Database**
-* ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-000?style=flat&logo=ruby-on-rails)
-* ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk)
-* ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?style=flat&logo=microsoft-sql-server)
-* ![Postgres](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
-
-**Tools**
-* ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-* ![VSCode](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code)
-
-### 📫 Contato
+  <br> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
 
 ### 📫 Contato
 
