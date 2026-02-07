@@ -6,7 +6,7 @@
 
 <div align="center">
   <br>
-  <a href="SEU_LINK_DO_PORTFOLIO_AQUI">
+  <a href="lucasdaniel.vercel.app">
     <img src="https://img.shields.io/badge/Visite_meu_Portf%C3%B3lio-111?style=for-the-badge&logo=vercel&logoColor=white&color=000" />
   </a>
   <br><br>
@@ -34,28 +34,8 @@ Atualmente, integro a equipe de desenvolvimento da **Sudoeste Informática**, at
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasdanielzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdanielzx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="top langs" />
-</div>
-
-<br>
-
 ### 📫 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-daniel-a94288363/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-232323?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:reservalucasdaniel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-232323?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/5575983531194" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-232323?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-   <a href="https://instagram.com/lucasdanielzx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-232323?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<a href="https://www.linkedin.com/in/lucas-daniel-a94288363/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-232323?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:reservalucasdaniel@gmail.com"><img src="https://img.shields.io/badge/Gmail-232323?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://wa.me/5575983531194" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-232323?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a><a href="https://instagram.com/lucasdanielzx" target="_blank"><img src="https://img.shields.io/badge/Instagram-232323?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
