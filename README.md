@@ -28,14 +28,35 @@ Atualmente, integro a equipe de desenvolvimento da **Sudoeste Informática**, at
 
 ### 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,rails,postgres,mssql,java,git,github,vscode&perline=6" />
-</div>
+### 🛠 Tech Stack
 
-<br>
+**Frontend**
+* ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+* ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwind-css)
+* ![JS](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+
+**Backend & Database**
+* ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-000?style=flat&logo=ruby-on-rails)
+* ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk)
+* ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?style=flat&logo=microsoft-sql-server)
+* ![Postgres](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+
+**Tools**
+* ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+* ![VSCode](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code)
+
+### 📫 Contato
 
 ### 📫 Contato
 
 <div align="center">
-<a href="https://www.linkedin.com/in/lucas-daniel-a94288363/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-232323?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:reservalucasdaniel@gmail.com"><img src="https://img.shields.io/badge/Gmail-232323?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://wa.me/5575983531194" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-232323?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a><a href="https://instagram.com/lucasdanielzx" target="_blank"><img src="https://img.shields.io/badge/Instagram-232323?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/lucas-daniel-a94288363/" target="_blank">
+    <img src="https://img.shields.io/badge/-Lucas%20Daniel-0077B5?style=flat-square&logo=Linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:reservalucasdaniel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-reservalucasdaniel@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" target="_blank" alt="Gmail Badge">
+  </a>
+  <a href="https://wa.me/5575983531194" target="_blank">
+    <img src="https://img.shields.io/badge/-(75)%209.8353--1194-25D366?style=flat-square&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp Badge">
+  </a>
 </div>
